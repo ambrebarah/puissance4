@@ -1,0 +1,21 @@
+.board button {
+    width: 70px;
+    height: 70px;
+    background-color: gray;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin: 1px;
+}
+
+#btn {
+    background-color: rgb(0, 0, 0);
+    border: 1px solid #72f21d;
+    color: #d2f21d;
+    border-radius: 80px;
+    font-weight: 700;
+    font-size: 14px;
+    width: 90px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
